@@ -1,4 +1,4 @@
-**Wanna help translating this to your language? Create an issue here on GitHub or create an Issue, but first please make sure your language isnt in the works already by checking the "languages.txt" file**
+**Wanna help translating this app to your language? Create an issue here on GitHub or create an Issue, but first please make sure your language isnt in the works already by checking the "languages.txt" file**
 
 https://github.com/user-attachments/assets/381de262-169c-40c5-82e3-5f68df427664
 
