@@ -12,10 +12,8 @@ Dont worry! Using this app you can fake a realistic looking ScreenTime Popup ask
 - Copy the entered Passcode to the clipboard
 - Log out the user when pressing Cancel to make the person think that the Mac is locked until they enter the ScreenTime Passcode
 
-- **HOW TO USE:**
+**HOW TO USE:**
 - a) Go to the "Releases" Tab and get the latest release in your language.
 - b) Unzip the archive and put the app somewhere on your Mac.
 - (Optional): Open Settings and add the App as Login Item to make it seem more legit
 - c) Open the App or if you put it as Login Item, log in and then ask the person knowing the Passcode to please enter it so you can continue using your Mac again.
-
-- 
