@@ -24,7 +24,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		8D7E891A2CB06F020062E062 /* ScreenTime Services.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ScreenTime Services.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8D7E891A2CB06F020062E062 /* Services de temps d'écran.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Services de temps d'écran.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D7E892B2CB06F040062E062 /* ScreenTime ServicesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ScreenTime ServicesTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D7E89352CB06F040062E062 /* ScreenTime ServicesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ScreenTime ServicesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -85,7 +85,7 @@
 		8D7E891B2CB06F020062E062 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8D7E891A2CB06F020062E062 /* ScreenTime Services.app */,
+				8D7E891A2CB06F020062E062 /* Services de temps d'écran.app */,
 				8D7E892B2CB06F040062E062 /* ScreenTime ServicesTests.xctest */,
 				8D7E89352CB06F040062E062 /* ScreenTime ServicesUITests.xctest */,
 			);
@@ -95,9 +95,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8D7E89192CB06F020062E062 /* ScreenTime Services */ = {
+		8D7E89192CB06F020062E062 /* Services de temps d'écran */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8D7E893F2CB06F040062E062 /* Build configuration list for PBXNativeTarget "ScreenTime Services" */;
+			buildConfigurationList = 8D7E893F2CB06F040062E062 /* Build configuration list for PBXNativeTarget "Services de temps d'écran" */;
 			buildPhases = (
 				8D7E89162CB06F020062E062 /* Sources */,
 				8D7E89172CB06F020062E062 /* Frameworks */,
@@ -110,11 +110,11 @@
 			fileSystemSynchronizedGroups = (
 				8D7E891C2CB06F020062E062 /* ScreenTime Services */,
 			);
-			name = "ScreenTime Services";
+			name = "Services de temps d'écran";
 			packageProductDependencies = (
 			);
 			productName = "ScreenTime Services";
-			productReference = 8D7E891A2CB06F020062E062 /* ScreenTime Services.app */;
+			productReference = 8D7E891A2CB06F020062E062 /* Services de temps d'écran.app */;
 			productType = "com.apple.product-type.application";
 		};
 		8D7E892A2CB06F040062E062 /* ScreenTime ServicesTests */ = {
@@ -200,7 +200,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8D7E89192CB06F020062E062 /* ScreenTime Services */,
+				8D7E89192CB06F020062E062 /* Services de temps d'écran */,
 				8D7E892A2CB06F040062E062 /* ScreenTime ServicesTests */,
 				8D7E89342CB06F040062E062 /* ScreenTime ServicesUITests */,
 			);
@@ -258,12 +258,12 @@
 /* Begin PBXTargetDependency section */
 		8D7E892D2CB06F040062E062 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 8D7E89192CB06F020062E062 /* ScreenTime Services */;
+			target = 8D7E89192CB06F020062E062 /* Services de temps d'écran */;
 			targetProxy = 8D7E892C2CB06F040062E062 /* PBXContainerItemProxy */;
 		};
 		8D7E89372CB06F040062E062 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 8D7E89192CB06F020062E062 /* ScreenTime Services */;
+			target = 8D7E89192CB06F020062E062 /* Services de temps d'écran */;
 			targetProxy = 8D7E89362CB06F040062E062 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -409,7 +409,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 15.1;
+				MACOSX_DEPLOYMENT_TARGET = 11.5;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.macOS.ScreenTime-Services";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -448,7 +448,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 15.1;
+				MACOSX_DEPLOYMENT_TARGET = 11.5;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.macOS.ScreenTime-Services";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -563,7 +563,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8D7E893F2CB06F040062E062 /* Build configuration list for PBXNativeTarget "ScreenTime Services" */ = {
+		8D7E893F2CB06F040062E062 /* Build configuration list for PBXNativeTarget "Services de temps d'écran" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8D7E89402CB06F040062E062 /* Debug */,
